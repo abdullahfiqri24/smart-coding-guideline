@@ -1,0 +1,2 @@
+Fetch this design file, read its readme, and implement the relevant aspects of the design. https://api.anthropic.com/v1/design/h/yX8nBebJlXQJ_904m0q-og?open_file=Smart+Coding+Guideline.html
+Implement: Smart Coding Guideline.html
