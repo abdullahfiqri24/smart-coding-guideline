@@ -108,7 +108,6 @@ or
 ```bash
 http://localhost:5173
 ```
-
 (depending on your configuration)
 
 ---
